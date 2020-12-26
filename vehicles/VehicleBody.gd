@@ -20,7 +20,7 @@ export var torque_curve_torques = [400, 1100, 1300, 1800, 1600, 0]
 
 #Alternative B
 export var torque_curve = [Vector2(500,400), Vector2(5000, 1100), Vector2(5500, 1300), 
-                           Vector2(6500, 1800), Vector2(7500, 1600), Vector2(9000, 0)]
+						   Vector2(6500, 1800), Vector2(7500, 1600), Vector2(9000, 0)]
 
 
 export var gear_ratios = [-4.25, 3.2, 2.24, 1.57, 1.23, 1.065]
